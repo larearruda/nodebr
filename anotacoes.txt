@@ -1,0 +1,9 @@
+
+# Iniciar um projeto 
+npm init 
+
+#Iniciar um projeto com as configuraçoes padrao
+npm init -y
+
+
+#Para o javascript, todos os valores null || '' || 0) = false
